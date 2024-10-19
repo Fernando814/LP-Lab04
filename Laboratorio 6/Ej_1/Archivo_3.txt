@@ -1,0 +1,7 @@
+Lunes, Enero
+Martes, Febrero
+Miercoles, Marzo
+Jueves, Abril
+Viernes,  Mayo
+Sabado,  Junio
+Domingo, Julio
